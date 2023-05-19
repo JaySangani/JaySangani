@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @JaySangani
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Tableau
-- 💞️ I’m looking to collaborate on global health data
-- 📫 How to reach me? 
-        Linkedin - https://www.linkedin.com/in/sangani-jay/
-        Instagram - @_jaysangani
+- 🙏 Hi, I’m @JaySangani
+- 🎓Monash University
+- 💟 Data Analytics
+- 🤹 Python, R, SQL, Tableau/PowerBI, Spreadsheets
+- 🏊‍♀️ Swimming
+- 📚 books
+
 
 <!---
 JaySangani/JaySangani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
